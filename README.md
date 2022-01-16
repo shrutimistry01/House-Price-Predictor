@@ -4,4 +4,4 @@ House price prediction using machine learning regression models
 * Optimized Linear, Decision, and Random Forest Regressors to reach the best model. 
 
 **Python Version:** 3.9.7  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, joblib
